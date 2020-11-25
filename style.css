@@ -57,7 +57,7 @@ a:hover {
     z-index: 0;
 }
 .jumbotron-cover-fullpage-index {
-    background-image:url(img/masak-masak.gif);
+    background-image:url(img/4.jpg);
     background-size: cover;
     height: 100vh;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ h1.subjudul {
 .related-post {
     max-width: 1000px;
     margin: 0 auto;
-    padding: 0 20px;
+    /* padding: 0 20px; */
 }.credits, .text {
     max-width: 600px;    
     margin: 0 auto;
